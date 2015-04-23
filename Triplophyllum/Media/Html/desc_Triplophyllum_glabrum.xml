@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<description>
+  <key title='Key to Neotropical Triplophyllum' description='Pilot project for the Amazonian fern key.  Based on Prado, J. &amp; Moran, R.C. 2008. Brittonia 60: 103-130.' authors='Based on Prado, J. &amp; Moran, R.C. 2008. Brittonia 60: 103-130.  Multi-entry key format developed by Gabriela Zuquim.'/>
+  <entity name='Triplophyllum glabrum'>
+    <media>
+      <media_item label='T. glabrum' type='image'>
+        <source path='../Images/Triplophyllum_glabrum.jpg' type='image/jpeg'/>
+        <icon path='../Thumbs/Triplophyllum_glabrum_TN.jpg' type='image/jpeg'/>
+      </media_item>
+    </media>
+    <feature_group name='Basal pinnae'>
+      <feature name='Basiscopic side'>
+        <score text='Strongly elongated'/>
+      </feature>
+      <feature name='Size'>
+        <score text='more than 0.6 times the length of the lamina'/>
+      </feature>
+    </feature_group>
+    <feature_group name='Indument'>
+      <feature name='in the adaxial surface of the VEINS'>
+        <score text='glabrous or with hairs'/>
+      </feature>
+      <feature name='in the INDUSIA'>
+        <score text='Glabrous'/>
+      </feature>
+      <feature name='in the LAMINA MARGIN'>
+        <score text='eciliate (without hairs)'/>
+      </feature>
+      <feature name='number of cells'>
+        <score text='1 to 5'/>
+      </feature>
+      <feature name='size'>
+        <score text='0.1 - 0.2 mm'/>
+      </feature>
+    </feature_group>
+    <feature_group name='In the LAMINA BETWEEN VEINS'>
+      <feature name='ABAXIALLY'>
+        <score text='glabrous'/>
+      </feature>
+      <feature name='ADAXIALLY'>
+        <score text='glabrous'/>
+      </feature>
+    </feature_group>
+    <feature_group name='In the PINNA RACHIS'>
+      <feature name='ADAXIAL surface of pinna rachis'>
+        <score text='Glabrous'/>
+      </feature>
+    </feature_group>
+    <feature_group name='Hairs on the ABAXIAL surface of pinna rachis'>
+      <feature name='Number of cells'>
+        <score text='1 to 5'/>
+      </feature>
+      <feature name='size'>
+        <score text='smaller than 0.5 mm long'/>
+      </feature>
+    </feature_group>
+  </entity>
+</description>
